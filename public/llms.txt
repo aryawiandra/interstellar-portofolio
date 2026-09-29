@@ -1,0 +1,28 @@
+# Muhammad Arya Wiandra Utomo
+
+> Computer engineer turned business analyst. S.T. Computer Engineering at Universitas Indonesia (GPA 3.58/4.00, expected Aug 2027). Experience at Adaro, Pertamina, McKinsey Forward and ETH Zürich.
+
+## Experience
+
+- PT Adaro Andalan Indonesia Tbk, Business Analyst Intern (Aug 2026 – Present): BRD/PRD, process and UX flows for batch allocation and consolidated case management; requirement workshops; functional QA.
+- PT Pertamina (Persero), Enterprise Data Management Intern (Apr – Jul 2026): predictive-maintenance pipeline (Isolation Forest, 876K rows, 44 features, 96% pre-failure recall) with a Streamlit dashboard; EDM 2027 Risk Register; data-governance assessment against UU PDP No. 27/2022.
+- McKinsey & Company, McKinsey Forward Program (Mar – Jul 2026): structured problem-solving applied to a live traffic-system case.
+- ETH Zürich, AI Research Assistant (Sep 2025 – Jan 2026): computer-vision research on contact prediction in egocentric video.
+
+## Leadership
+
+- Co-Founder, Quantum Computing Lab (FTUI); Teaching Assistant for Modern Computer Architecture and Fundamentals of Data Analytics.
+- Head of Multimedia, BEM UI (370K+ followers); shipped sitbemui.com and sptbemui.com.
+- Co-Founder & Vice Project Officer, ROOPA Market (22 tenants, 60+ business owners).
+- Director of Event, NEST UI (200+ attendees).
+
+## Contact
+
+- [Email](mailto:aryautomo21@gmail.com): aryautomo21@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/aryawiandra): professional profile
+- [GitHub](https://github.com/aryawiandra): code
+
+## Live projects
+
+- [sitbemui.com](https://sitbemui.com): internal operations system for BEM UI
+- [sptbemui.com](https://sptbemui.com): Universitas Indonesia's first open-recruitment platform

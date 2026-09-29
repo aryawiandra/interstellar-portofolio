@@ -1,0 +1,41 @@
+:root {
+  color-scheme: dark;
+
+  --bg: #000;
+  --fg: #fff;
+  --fg-2: rgba(255, 255, 255, 0.72);
+  --fg-3: rgba(255, 255, 255, 0.5);
+  --fg-4: rgba(255, 255, 255, 0.32);
+  --hairline: rgba(255, 255, 255, 0.16);
+  --hairline-strong: rgba(255, 255, 255, 0.32);
+  --glass: rgba(18, 18, 20, 0.42);
+  --accent: #ff8a3d;
+  --accent-soft: rgba(255, 138, 61, 0.18);
+  --detect: #ffb347;
+
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Geist Mono Variable', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --gutter: clamp(16px, 2.6vw, 40px);
+  --nav-h: 72px;
+
+  --fs-h1: clamp(2.7rem, 6.3vw, 6.4rem);
+  --fs-h2: clamp(2.3rem, 5.2vw, 5.2rem);
+  --fs-lead: clamp(1.08rem, 1.55vw, 1.55rem);
+  --fs-body: clamp(0.94rem, 1.05vw, 1.05rem);
+  --fs-small: 0.84rem;
+  --fs-mono: 0.6875rem;
+  --tracking-mono: 0.16em;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --reveal-ms: 900ms;
+  --stagger-ms: 90ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --reveal-ms: 1ms;
+    --stagger-ms: 0ms;
+  }
+}
